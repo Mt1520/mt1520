@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Aerospace Engineering grad from Imperial wit
 ### 🌟 About Me
 - 🎓 **Education**: Master’s in [Your Field, e.g., Engineering or Computer Science]  
 - 🔧 **Languages**: Python, C++, MATLAB, SQL, JavaScript  
-- **Technologies/Libraries**: TensorFLow, Keras, Pandas
+- 💻 **Technologies/Libraries**: TensorFLow, Keras, Pandas
 
 ### 🔭 Featured Projects
 Here’s a sneak peek into some of my work:

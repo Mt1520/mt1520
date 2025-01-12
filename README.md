@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a Aerospace Engineering grad from Imperial wit
 
 ### 🔭 Featured Projects
 Here’s a sneak peek into some of my work:
-- **YT playlist downloader as MP3**: Implemented an automation program which streamlines the download and conversion of YT playlists to mp3 files. 
+- **YT playlist downloader as MP3**: Implemented an automation [program](https://github.com/Mt1520/yt_to_music) which streamlines the download and conversion of YT playlists to mp3 files. 
 - **Turbulence Modeling with LSTM-RNNs**: Implemented a neural network to predict and analyze coherent turbulent structures, tackling high-complexity datasets.  
 - **UAV Path Planning Algorithms**: Designed efficient pathfinding algorithms to improve UAV navigation and decision-making.  
 

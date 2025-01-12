@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a Aerospace Engineering grad from Imperial with a strong foundation in **NNs, Data Analysis and Modelling**. I love solving challenging problems, building innovative software solutions, and applying cutting-edge technologies to real-world applications.
 
 ### 🌟 About Me
-- 🎓 **Education**: Master’s in [Your Field, e.g., Engineering or Computer Science]  
+- 🎓 **Education**: Aerospace Engineering (MEng)  
 - 🔧 **Languages**: Python, C++, MATLAB, SQL, JavaScript  
 - 💻 **Technologies/Libraries**: TensorFLow, Keras, Pandas
 
